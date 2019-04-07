@@ -510,5 +510,3 @@ seqSearch()、binSearch()、insertionsort()
 第一个贪心算法案例：找零问题
 
 背包问题的贪心算法解决方案
-
-
